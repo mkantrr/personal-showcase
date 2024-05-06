@@ -1,0 +1,6 @@
+[submodule "dev-website"]
+	path = dev-website
+	url = https://github.com/mkantrr/dev-website.git
+[submodule "kanter_os"]
+	path = kanter_os
+	url = https://github.com/mkantrr/kanter_os.git
