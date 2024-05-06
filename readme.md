@@ -1,6 +1,6 @@
 # mattkanter.com
 
-This is one of two repositories created for my portfolio website <a href="https://mattkanter.com/"><samp>mattkanter.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/mkantrr/kanter_os"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:matthew@mattkanter.com">matt@matutu.dev</a></samp>.
+This is one of two repositories created for my portfolio website <a href="https://mattkanter.com/"><samp>mattkanter.com</samp></a>. Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:matthew@mattkanter.com">matt@matutu.dev</a></samp>.
 
 <br>
 
